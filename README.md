@@ -5,7 +5,7 @@
 
 `cd iom_scraper`
 
-`virtualenv env -p pyhton3 && source env/bin/activate`
+`virtualenv env -p python3 && source env/bin/activate`
 
 `pip install -r requirements.txt`
 
