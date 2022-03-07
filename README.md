@@ -12,3 +12,7 @@
 ## Usage
 
 `python romania.py`
+
+Before using `hungary.py`, please install Selenium correctly (drivers etc.). This script uses the `firefox` driver by default. Google it.
+
+`python hungary.py`
