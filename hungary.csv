@@ -1,0 +1,6 @@
+,crossing,crossing_times,waiting_time_incoming_car,waiting_time_incoming_bus,traffic_type,alternate_crossings,waiting_time_outgoing_car,waiting_time_outgoing_bus
+0,Barabás - Koson,00.00-24.00,1 óra,,Nemzetközi személyforgalom (autóbusz forgalom kivételével),"Beregsurány 00-24, Záhony 00-24, Tiszabecs 00-24",,
+1,Beregsurány - Асте,00 - 24,3/4 óra,,nemzetközi személy- és teherforgalom (tranzit) 2020. szeptember 1-től.,"Barabás 07-19,Lónya 08-16,Tiszabecs 00-24",,
+2,Lónya - Dzvinkov,00.00-24.00,,,Nemzetközi személyforgalom (autóbusz forgalom kivételével),"Tiszabecs, Beregsurány, Barabás, Záhony",,
+3,Tiszabecs - Vilok,00:00-24:00,2 óra,,Kétoldalú személyforgalom 2020. szeptember 1-től.,"Beregsurány, Lónya, Barabás,Záhony",,
+4,Záhony - Čo,00:00-24:00,1 óra,1 óra,nemzetközi személy- és teherforgalom (tranzit) 2020. szeptember 1-től.,"Beregsurány, Tiszabecs, Lónya, Barabás, Visny Nemecke(SK)",,1 óra
