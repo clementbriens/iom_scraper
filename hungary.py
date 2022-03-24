@@ -43,4 +43,4 @@ for div in divs:
 
 df = pd.DataFrame(crossing_data)
 df.to_csv('hungary.csv')
-print('[*] Scraped', len(df), '- Saved to https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+print('[*] Scraped', len(df))
